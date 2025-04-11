@@ -132,7 +132,7 @@ let actors = [
     film: ["MedoMashakel", "ElBashaTelmeez", "a7lamElfataElataaesh", "EyalHabiba", "ShebhMonharef", "55Esaaf", "3eshElZaogia", "sab3ElBromba"]
     },
     {img: `actors/same77esin.png`,
-    film: ["elDadaDody", "H-daboor", "QessatAlhayAlSha3bi", "tabakhElRais", "FilmHendi", "eo3aOeshk", "gaanaElBaianElTali", "SahibSahbu"]
+    film: ["elDadaDody", "H-daboor", "QessatAlhayAlSha3bi", "tabakhElRais", "FilmHendi", "eo3aOeshk", "gaanaElBaianElTali", "SahibSahbu", "Lakhmetrass"]
     },
     {img: `actors/ahmedRezk.png`,
     film: ["eo3aOeshk", "Lakhmetrass", "3alaGanbYasta", "HelmAziz", "LeesBaghdad"]
