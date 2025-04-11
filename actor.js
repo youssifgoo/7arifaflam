@@ -12,7 +12,7 @@ let actors = [
     film: ["IbrahimElAbyad", "TaimourWeShafika", "s3ediFeElGam3aElamirkia", "ElMaslaha", "AlGezira", "7arbItalya", "3alaGanbYasta", "3anEl3eahkWeElHawa", "EbnElQonsol", "Elfelos"]
     },
     {img: `actors/doniaSamerGhanem.png`,
-    film: ["lafWeDaoaran", "laTrago3WlaEstslam", "YaAnaYaKhalty", "xLarg", "365YomSa3ada"]
+    film: ["lafWeDaoaran", "laTrago3WlaEstslam", "YaAnaYaKhalty", "xLarg", "365YomSa3ada", "taslemAhali"]
     },
     {img: `actors/hendSabry.png`,
     film: ["IbrahimElAbyad", "elFeelElAzrak", "AlGezira", "a7laElAuqat"]
@@ -48,7 +48,7 @@ let actors = [
     film: ["elrahina", "ElMaslaha", "elshab7", "weladRezk", "365YomSa3ada", "HelmAziz", "el3arif", "elKhalia"]
     },
     {img: `actors/ahmedFat7y.png`,
-    film: ["kabtenMasr", "el7arbEl3alamiaElTalta", "3endamaYak3ElAnsan", "BanatEl3am", "bankEl7az", "ItlauliBarrah", "kalbBalady", "ka7imFeElHend", "7amilElLakab"]
+    film: ["kabtenMasr", "el7arbEl3alamiaElTalta", "3endamaYak3ElAnsan", "BanatEl3am", "bankEl7az", "ItlauliBarrah", "kalbBalady", "ka7imFeElHend", "7amilElLakab", "taslemAhali"]
     },
     {img: `actors/amrAbdElgilel.png`,
     film: ["ziko", "SarkhetNamla", "KalemnyShokran", "3andlibElDuki"]
@@ -99,7 +99,7 @@ let actors = [
     film: ["elrahina", "elDadaDody", "zakiShan", "aboElAraby", "AskarFiElMu3askar", "ElMaslaha", "ElTalataYeshtghalonha", "elshab7", "BanatEl3am", "FilmHendi", "365YomSa3ada", "el7arbEl3alamiaElTalta", "AboNasab", "HelmAziz", "LeesBaghdad"]
     },
     {img: `actors/shiko.png`,
-    film: ["samerWeShaherWeBaher", "el7arbEl3alamiaElTalta", "BanatEl3am"]
+    film: ["samerWeShaherWeBaher", "el7arbEl3alamiaElTalta", "BanatEl3am", "taslemAhali"]
     },
     {img: `actors/heshamMaged.png`,
     film: ["samerWeShaherWeBaher", "el7arbEl3alamiaElTalta", "BanatEl3am", "7amilElLakab", "taslemAhali"]
@@ -156,7 +156,7 @@ let actors = [
     film: ["WeladEl3m", "kabtenMasr", "3anEl3eahkWeElHawa", "HelmAziz"]
     },
     {img: `actors/baiomyFoaad.png`,
-    film: ["wakfetRekala", "bankEl7az", "kabtenMasr", "3endamaYak3ElAnsan", "el7arbEl3alamiaElTalta", "aboShanab", "ItlauliBarrah", "ka7imFeElHend", "kalbBalady", "lilaHanaWeSoror", "LeesBaghdad", "BanatEl3am", "sab3ElBromba", "lafWeDaoaran", "sima3liBaba"]
+    film: ["wakfetRekala", "bankEl7az", "kabtenMasr", "3endamaYak3ElAnsan", "el7arbEl3alamiaElTalta", "aboShanab", "ItlauliBarrah", "ka7imFeElHend", "kalbBalady", "lilaHanaWeSoror", "LeesBaghdad", "BanatEl3am", "sab3ElBromba", "lafWeDaoaran", "sima3liBaba", "taslemAhali"]
     },
     {img: `actors/khaledSaleh.png`,
     film: ["7arbItalya", "tumnTastaAshrar", "a7laElAuqat", "MedoMashakel", "3anEl3eahkWeElHawa", "EbnElQonsol", "AlGezira"]
