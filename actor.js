@@ -18,7 +18,7 @@ let actors = [
     film: ["IbrahimElAbyad", "elFeelElAzrak", "AlGezira", "a7laElAuqat"]
     },
     {img: `actors/lotfiLabib.png`,
-    film: ["assalEsoed", "ElBashaTelmeez", "ElTalataYeshtghalonha", "H-daboor", "kedaReda", "YaAnaYaKhalty", "SayeBahr", "FeMahatetMasr", "Karkar", "tabakhElRais", "SHIKAMARA", "amirElBi7ar", "ramadanMabrok", "7a7aWeTofa7a", "elLimbi", "SayedElAtefy", "3andlibElDuki", "365YomSa3ada", "aboShanab", "gaanaElBaianElTali", "Lakhmetrass", "sima3liBaba", "HasalKher", "SahibSahbu", "HarameyaFeThailand", "3esabaDr.Omar"]
+    film: ["assalEsoed", "ElBashaTelmeez", "ElTalataYeshtghalonha", "H-daboor", "kedaReda", "YaAnaYaKhalty", "SayeBahr", "FeMahatetMasr", "Karkar", "tabakhElRais", "SHIKAMARA", "amirElBi7ar", "ramadanMabrok", "7a7aWeTofa7a", "elLimbi", "SayedElAtefy", "3andlibElDuki", "365YomSa3ada", "aboShanab", "gaanaElBaianElTali", "Lakhmetrass", "sima3liBaba", "HasalKher", "SahibSahbu", "HarameyaFeThailand", "3esabaDr.Omar", "tumnTastaAshrar"]
     },
     {img: `actors/mohammedHenedy.png`,
     film: ["AskarFiElMu3askar", "TetaRaheba", "YaAnaYaKhalty", "amirElBi7ar", "folElSinElAzim", "Karkar", "ramadanMabrok", "WeshEgram", "3andlibElDuki", "gaanaElBaianElTali", "s3ediFeElGam3aElamirkia", "SahibSahbu"]
