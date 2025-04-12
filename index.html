@@ -81,7 +81,7 @@
         }
         .contener .buttom .chang img{
             margin: 0 10px;
-            background: seagreen;
+            background: rgb(21, 107, 78);
             border-radius: 20px;
             border: 3px solid black;
             transition: 0.3s;
@@ -173,6 +173,32 @@
         .rechan{
             cursor: pointer;
         }
+        .social-media{
+            background: rgb(104, 56, 56);
+            width: 50px;
+            height: 40px;
+            border-radius: 20px 0 0 20px;
+            text-align: center;
+            overflow: hidden;
+            padding: 5px;
+            position: absolute;
+            z-index: 105;
+            right: 0;
+            top: 0;
+            margin-top: 10px;
+            transition: 1s;
+        }
+        .social-media img{
+            transition: 0.5s;
+        }
+        .social-media img:hover{
+            margin: 5px 0;
+            filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg);
+        }
+        .social-media:hover{
+           background: slategray;
+           height: 200px; 
+        }
 @media(max-width: 850px){
     .lost{
         width: 400px;
@@ -259,9 +285,24 @@
         }
 
 }
+    .menu{
+        width: 30px;
+    }
     </style>
 </head>
 <body id="body" dir="rtl" style="background-image: url(hq720\ \(2\).jpg);background-size: cover; display: flex; justify-content: center; align-items: center; min-height: 100vh;">
+    <div class="social-media">
+        <img class="menu" src="icon/menu_24dp_E3E3E3_FILL0_wght400_GRAD0_opsz24.svg" alt="">
+        <a href="https://www.instagram.com/gaming_container_?igsh=YjNpdHdoeWZ2N2cx">
+        <img class="insta" src="icon/instagram-brands.svg" alt="">
+        </a>
+        <a href="https://wa.me/01129788151" target="_blank">
+        <img class="whats" src="icon/whatsapp-brands.svg" alt="">
+        </a>
+        <a href="https://github.com/youssifgoo">
+        <img class="git" src="icon/github-brands.svg" alt="">
+        </a>
+    </div>
     <h1 id="h" class="h3">0</h1>
     <div id="aut" class="aut">
     </div>

@@ -1,15 +1,15 @@
 let actors = [
     {img: `actors/ahmedHelmi.png`,
-    film: ["Aasef3alaElez3ag", "assalEsoed", "elNazer", "ga3latnyMogrman", "MedoMashakel", "lafWeDaoaran", "kedaReda", "SayeBahr", "xLarg", "zakiShan", "MatabSinai", "zarfTarek", "55Esaaf", "1000mabrok"]
+    film: ["Aasef3alaElez3ag", "assalEsoed", "elNazer", "ga3latnyMogrman", "MedoMashakel", "lafWeDaoaran", "kedaReda", "SayeBahr", "xLarg", "zakiShan", "MatabSinai", "zarfTarek", "55Esaaf", "1000mabrok", "3alakosti"]
     },
     {img: `actors/ahmedMekky.png`,
     film: ["laTrago3WlaEstslam", "samerAboElNile", "sima3liBaba"]
     },
    {img: `actors/7asan7osny.png`,
-    film: ["3okal", "a7lamElfataElataaesh", "aeathono", "AskarFiElMu3askar", "bo7a", "ElBashaTelmeez", "elLimbi", "elNazer", "ga3latnyMogrman", "Ghapy", "H-daboor", "MedoMashakel", "YaAnaYaKhalty", "zakiShan", "7a7aWeTofa7a", "ElLemby8Giga", "EyalHabiba", "kabtenMasr", "Karkar", "ShebhMonharef", "samerWeShaherWeBaher", "a7laElAuqat", "Lakhmetrass", "3eshElZaogia", "katkot", "ka7imFeElHend"]
+    film: ["3okal", "a7lamElfataElataaesh", "aeathono", "AskarFiElMu3askar", "bo7a", "ElBashaTelmeez", "elLimbi", "elNazer", "ga3latnyMogrman", "Ghapy", "H-daboor", "MedoMashakel", "YaAnaYaKhalty", "zakiShan", "7a7aWeTofa7a", "ElLemby8Giga", "EyalHabiba", "kabtenMasr", "Karkar", "ShebhMonharef", "samerWeShaherWeBaher", "a7laElAuqat", "Lakhmetrass", "3eshElZaogia", "katkot", "ka7imFeElHend", "3alakosti"]
     },
     {img: `actors/ahmedELsaka.png`,
-    film: ["IbrahimElAbyad", "TaimourWeShafika", "s3ediFeElGam3aElamirkia", "ElMaslaha", "AlGezira", "7arbItalya", "3alaGanbYasta", "3anEl3eahkWeElHawa", "EbnElQonsol", "Elfelos"]
+    film: ["IbrahimElAbyad", "TaimourWeShafika", "s3ediFeElGam3aElamirkia", "ElMaslaha", "AlGezira", "7arbItalya", "3alaGanbYasta", "3anEl3eahkWeElHawa", "EbnElQonsol", "Elfelos", "3alakosti", "hamamFeAmsterdam"]
     },
     {img: `actors/doniaSamerGhanem.png`,
     film: ["lafWeDaoaran", "laTrago3WlaEstslam", "YaAnaYaKhalty", "xLarg", "365YomSa3ada", "taslemAhali"]
@@ -21,7 +21,7 @@ let actors = [
     film: ["assalEsoed", "ElBashaTelmeez", "ElTalataYeshtghalonha", "H-daboor", "kedaReda", "YaAnaYaKhalty", "SayeBahr", "FeMahatetMasr", "Karkar", "tabakhElRais", "SHIKAMARA", "amirElBi7ar", "ramadanMabrok", "7a7aWeTofa7a", "elLimbi", "SayedElAtefy", "3andlibElDuki", "365YomSa3ada", "aboShanab", "gaanaElBaianElTali", "Lakhmetrass", "sima3liBaba", "HasalKher", "SahibSahbu", "HarameyaFeThailand", "3esabaDr.Omar", "tumnTastaAshrar"]
     },
     {img: `actors/mohammedHenedy.png`,
-    film: ["AskarFiElMu3askar", "TetaRaheba", "YaAnaYaKhalty", "amirElBi7ar", "folElSinElAzim", "Karkar", "ramadanMabrok", "WeshEgram", "3andlibElDuki", "gaanaElBaianElTali", "s3ediFeElGam3aElamirkia", "SahibSahbu"]
+    film: ["AskarFiElMu3askar", "TetaRaheba", "YaAnaYaKhalty", "amirElBi7ar", "folElSinElAzim", "Karkar", "ramadanMabrok", "WeshEgram", "3andlibElDuki", "gaanaElBaianElTali", "s3ediFeElGam3aElamirkia", "SahibSahbu", "hamamFeAmsterdam"]
     },
     {img: `actors/mohammedSa3d.png`,
     film: ["3okal", "bo7a", "Boshkash", "elNazer", "elLimbi", "ElLemby8Giga", "Karkar", "55Esaaf", "katkot"]
@@ -45,7 +45,7 @@ let actors = [
     film: ["aeathono", "Boshkash", "laTrago3WlaEstslam", "OmarWeSalma2", "ramadanMabrok", "AlGezira", "3awdaElNadla", "MatabSinai"]
     },
     {img: `actors/ahmedEzz.png`,
-    film: ["elrahina", "ElMaslaha", "elshab7", "weladRezk", "365YomSa3ada", "HelmAziz", "el3arif", "elKhalia"]
+    film: ["elrahina", "ElMaslaha", "elshab7", "weladRezk", "365YomSa3ada", "HelmAziz", "el3arif", "elKhalia", "malahiAlix"]
     },
     {img: `actors/ahmedFat7y.png`,
     film: ["kabtenMasr", "el7arbEl3alamiaElTalta", "3endamaYak3ElAnsan", "BanatEl3am", "bankEl7az", "ItlauliBarrah", "kalbBalady", "ka7imFeElHend", "7amilElLakab", "taslemAhali"]
@@ -57,16 +57,16 @@ let actors = [
     film: ["weladRezk", "TetaRaheba", "zakiShan", "IbrahimElAbyad", "AlGezira", "3amohm", "elshab7"]
     },
     {img: `actors/edward.png`,
-    film: ["a7lamElfataElataaesh", "assalEsoed", "BanatEl3am", "elDadaDody", "FeMahatetMasr", "ga3latnyMogrman", "kabtenMasr", "ramadanMabrok", "ShebhMonharef", "SHIKAMARA", "Boshkash", "3esabaDr.Omar", "7aremKarem", "3eshElZaogia"]
+    film: ["a7lamElfataElataaesh", "assalEsoed", "BanatEl3am", "elDadaDody", "FeMahatetMasr", "ga3latnyMogrman", "kabtenMasr", "ramadanMabrok", "ShebhMonharef", "SHIKAMARA", "Boshkash", "3esabaDr.Omar", "7aremKarem", "3eshElZaogia", "3alakosti", "elMeshmohands7asan", "MohtaramElaRob3"]
     },
     {img: `actors/karemAbdElaziz.png`,
-    film: ["AbuAli", "FeMahatetMasr", "ElBashaTelmeez", "elFeelElAzrak", "faselWaNa3od", "HarameyaFeKG2", "HarameyaFeThailand", "WeladEl3m"]
+    film: ["AbuAli", "FeMahatetMasr", "ElBashaTelmeez", "elFeelElAzrak", "faselWaNa3od", "HarameyaFeKG2", "HarameyaFeThailand", "WeladEl3m", "nadiElRigalElSeri"]
     },
     {img: `actors/khaledElsawy.png`,
     film: ["zarfTarek", "kedaReda", "elFeelElAzrak", "ElBashaTelmeez", "el3yalHerbt", "AlGezira", "AbuAli", "ItlauliBarrah", "Elfelos"]
     },
     {img: `actors/magedElkedwani.png`,
-    film: ["AskarFiElMu3askar", "el3yalHerbt", "laTrago3WlaEstslam", "wakfetRekala", "elrahina", "SHIKAMARA", "Sa3aWaNos", "ElLemby8Giga", "faselWaNa3od", "HarameyaFeThailand", "HarameyaFeKG2", "sima3liBaba", "3alaGanbYasta", "AboNasab"]
+    film: ["AskarFiElMu3askar", "el3yalHerbt", "laTrago3WlaEstslam", "wakfetRekala", "elrahina", "SHIKAMARA", "Sa3aWaNos", "ElLemby8Giga", "faselWaNa3od", "HarameyaFeThailand", "HarameyaFeKG2", "sima3liBaba", "3alaGanbYasta", "AboNasab", "nadiElRigalElSeri"]
     },
     {img: `actors/maiEzzEldin.png`,
     film: ["aeathono", "bo7a", "OmarWeSalma2", "SHIKAMARA", "ElLemby8Giga", "Elfelos"]
@@ -90,19 +90,19 @@ let actors = [
     film: ["bankEl7az", "wakfetRekala", "IbrahimElAbyad", "elFeelElAzrak", "weladRezk", "elKhalia", "el3arif", "taslemAhali"]
     },
     {img: `actors/nour.png`,
-    film: ["3okal", "elrahina", "SayedElAtefy", "MatabSinai", "zarfTarek"]
+    film: ["3okal", "elrahina", "SayedElAtefy", "MatabSinai", "zarfTarek", "malahiAlix"]
     },
     {img: `actors/sa3edTarablk.png`,
     film: ["WeshEgram", "tabakhElRais", "folElSinElAzim", "MedoMashakel", "Ghapy", "folElSinElAzim", "ShebhMonharef", "assalEsoed", "kedaReda", "xLarg", "SayeBahr", "Boshkash", "FeMahatetMasr", "el3yalHerbt", "EyalHabiba", "AbuAli", "samerAboElNile", "KhaltyFaransa", "HarameyaFeKG2", "Lakhmetrass"]
     },
     {img: `actors/salahAbdallah.png`,
-    film: ["elrahina", "elDadaDody", "zakiShan", "aboElAraby", "AskarFiElMu3askar", "ElMaslaha", "ElTalataYeshtghalonha", "elshab7", "BanatEl3am", "FilmHendi", "365YomSa3ada", "el7arbEl3alamiaElTalta", "AboNasab", "HelmAziz", "LeesBaghdad"]
+    film: ["elrahina", "elDadaDody", "zakiShan", "aboElAraby", "AskarFiElMu3askar", "ElMaslaha", "ElTalataYeshtghalonha", "elshab7", "BanatEl3am", "FilmHendi", "365YomSa3ada", "el7arbEl3alamiaElTalta", "AboNasab", "HelmAziz", "LeesBaghdad", "Kalashnikov"]
     },
     {img: `actors/shiko.png`,
     film: ["samerWeShaherWeBaher", "el7arbEl3alamiaElTalta", "BanatEl3am", "taslemAhali"]
     },
     {img: `actors/heshamMaged.png`,
-    film: ["samerWeShaherWeBaher", "el7arbEl3alamiaElTalta", "BanatEl3am", "7amilElLakab", "taslemAhali"]
+    film: ["samerWeShaherWeBaher", "el7arbEl3alamiaElTalta", "BanatEl3am", "7amilElLakab", "taslemAhali", "nadiElRigalElSeri"]
     },
     {img: `actors/ahmedFahmi.png`,
     film: ["samerWeShaherWeBaher", "el7arbEl3alamiaElTalta", "BanatEl3am", "kalbBalady", "lilaHanaWeSoror"]
@@ -111,7 +111,7 @@ let actors = [
     film: ["7a7aWeTofa7a", "AbuAli", "aboElAraby", "QessatAlhayAlSha3bi", "SayedElAtefy", "tabakhElRais", "3okal", "Ghapy", "KhaltyFaransa", "3awdaElNadla", "7aremKarem", "eo3aOeshk", "gaanaElBaianElTali", "HarameyaFeKG2", "HarameyaFeThailand"]
     },
     {img: `actors/tamerHosni.png`,
-    film: ["CaptainHema", "SayedElAtefy", "tesba73alaKhir", "Nour3iney", "OmarWeSalma2"]
+    film: ["CaptainHema", "SayedElAtefy", "tesba73alaKhir", "Nour3iney", "OmarWeSalma2", "ahoak"]
     },
     {img: `actors/youssefEid.png`,
     film: ["el7arbEl3alamiaElTalta", "elNazer", "ga3latnyMogrman", "H-daboor", "SayeBahr", "7a7aWeTofa7a", "ramadanMabrok", "el3yalHerbt", "EyalHabiba", "ElLemby8Giga", "TetaRaheba", "Aasef3alaElez3ag", "amirElBi7ar", "faselWaNa3od", "SarkhetNamla", "55Esaaf", "HelmAziz"]
@@ -147,7 +147,7 @@ let actors = [
     film: ["3esabaDr.Omar", "7aremKarem", "kabtenMasr", "TetaRaheba", "xLarg", "EbnElQonsol"]
     },
     {img: `actors/mohammedRakab.png`,
-    film: ["tumnTastaAshrar", "ElBashaTelmeez", "kabtenMasr", "HarameyaFeKG2"]
+    film: ["tumnTastaAshrar", "ElBashaTelmeez", "kabtenMasr", "HarameyaFeKG2", "elMeshmohands7asan", "Kalashnikov", "malahiAlix", "MohtaramElaRob3"]
     },
     {img: `actors/mohammedSharaf.png`,
     film: ["elrahina", "Aasef3alaElez3ag", "zarfTarek", "zakiShan", "ShebhMonharef", "elDadaDody", "ga3latnyMogrman", "3esabaDr.Omar", "HarameyaFeThailand", "ramadanMabrok", "xLarg", "AskarFiElMu3askar", "QessatAlhayAlSha3bi"]
@@ -156,16 +156,22 @@ let actors = [
     film: ["WeladEl3m", "kabtenMasr", "3anEl3eahkWeElHawa", "HelmAziz"]
     },
     {img: `actors/baiomyFoaad.png`,
-    film: ["wakfetRekala", "bankEl7az", "kabtenMasr", "3endamaYak3ElAnsan", "el7arbEl3alamiaElTalta", "aboShanab", "ItlauliBarrah", "ka7imFeElHend", "kalbBalady", "lilaHanaWeSoror", "LeesBaghdad", "BanatEl3am", "sab3ElBromba", "lafWeDaoaran", "sima3liBaba", "taslemAhali"]
+    film: ["wakfetRekala", "bankEl7az", "kabtenMasr", "3endamaYak3ElAnsan", "el7arbEl3alamiaElTalta", "aboShanab", "ItlauliBarrah", "ka7imFeElHend", "kalbBalady", "lilaHanaWeSoror", "LeesBaghdad", "BanatEl3am", "sab3ElBromba", "lafWeDaoaran", "sima3liBaba", "taslemAhali", "nadiElRigalElSeri"]
     },
     {img: `actors/khaledSaleh.png`,
-    film: ["7arbItalya", "tumnTastaAshrar", "a7laElAuqat", "MedoMashakel", "3anEl3eahkWeElHawa", "EbnElQonsol", "AlGezira"]
+    film: ["7arbItalya", "tumnTastaAshrar", "a7laElAuqat", "MedoMashakel", "3anEl3eahkWeElHawa", "EbnElQonsol", "AlGezira", "malahiAlix"]
     },
     {img: `actors/tota.png`,
     film: ["ElLemby8Giga", "xLarg", "LeesBaghdad", "sab3ElBromba", "lilaHanaWeSoror", "sab3ElBromba"]
     },
     {img: `actors/ashrafAbdElBaki.png`,
     film: ["Lakhmetrass", "tabakhElRais", "3amohm", "3alaGanbYasta", "ItlauliBarrah", "SahibSahbu"]
+    },
+    {img: `actors/ghada3adil.png`,
+    film: ["ElBashaTelmeez", "ga3latnyMogrman", "s3ediFeElGam3aElamirkia", "EyalHabiba", "EbnElQonsol", "55Esaaf", "weladRezk", "3alakosti", "ahoak", "Kalashnikov", "malahiAlix", "nadiElRigalElSeri"]
+    },
+    {img: `actors/mahmmodBizawi.png`,
+    film: ["tesba73alaKhir", "zarfTarek", "ga3latnyMogrman", "elshab7", "zakiShan", "30sana", "ElMaslaha", "hamamFeAmsterdam", "Kalashnikov"]
     },
 
 ]
