@@ -96,7 +96,7 @@ let actors = [
     film: ["WeshEgram", "tabakhElRais", "folElSinElAzim", "MedoMashakel", "Ghapy", "folElSinElAzim", "ShebhMonharef", "assalEsoed", "kedaReda", "xLarg", "SayeBahr", "Boshkash", "FeMahatetMasr", "el3yalHerbt", "EyalHabiba", "AbuAli", "samerAboElNile", "KhaltyFaransa", "HarameyaFeKG2", "Lakhmetrass"]
     },
     {img: `actors/salahAbdallah.png`,
-    film: ["elrahina", "elDadaDody", "zakiShan", "aboElAraby", "AskarFiElMu3askar", "ElMaslaha", "ElTalataYeshtghalonha", "elshab7", "BanatEl3am", "FilmHendi", "365YomSa3ada", "el7arbEl3alamiaElTalta", "AboNasab", "HelmAziz", "LeesBaghdad", "Kalashnikov"]
+    film: ["elrahina", "elDadaDody", "zakiShan", "aboElAraby", "AskarFiElMu3askar", "ElMaslaha", "ElTalataYeshtghalonha", "elshab7", "BanatEl3am", "FilmHendi", "365YomSa3ada", "el7arbEl3alamiaElTalta", "AboNasab", "HelmAziz", "LeesBaghdad", "Kalashnikov", "el3yalHerbt"]
     },
     {img: `actors/shiko.png`,
     film: ["samerWeShaherWeBaher", "el7arbEl3alamiaElTalta", "BanatEl3am", "taslemAhali"]
