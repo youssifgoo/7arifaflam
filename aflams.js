@@ -332,5 +332,20 @@ let aflam = [
     {img: `aflam/taslemAhali.jpg`,
     film: `taslemAhali`
     },
+    {img: `aflam/HmadaEl3ap.jpg`,
+    film: `HmadaEl3ap`
+    },
+    {img: `aflam/tito.jpg`,
+    film: `tito`
+    },
+    {img: `aflam/elfra7.jpg`,
+    film: `elfra7`
+    },
+    {img: `aflam/kbareh.jpg`,
+    film: `kbareh`
+    },
+    {img: `aflam/hamamFeAmsterdam.jpg`,
+    film: `hamamFeAmsterdam`
+    },
 
 ]
